@@ -252,6 +252,7 @@ public class XHTMLImporter {
 	/**
 	 * Case insensitive key
 	 * (matching http://www.w3.org/TR/css3-fonts/#font-family-casing
+	 * TODO: refactor
 	 */
 	private static class FontFamilyMap extends HashMap<String, RFonts> {
 
